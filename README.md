@@ -17,15 +17,14 @@ A secure and transparent digital record-keeping system built on Python technolog
 
 5. Test the blockchain validation process by using the web interface. 
 
+![(1) Pychain - Streamlit](https://github.com/kevgeedj/Pychain/assets/128102960/c8d89608-1de7-4468-98bb-7f24a21a6415)
 
+## Block Inspector
 
-## Blockchain
-
-The following is a screenshot of the Streamlit application page, which details a blockchain that consists of multiple blocks. 
-
+![(3) Pychain - Block Inspector](https://github.com/kevgeedj/Pychain/assets/128102960/b386bbf3-b2c6-4192-8e8f-01c0da193267)
 
 
 ## Validity 
 
-The following is a screenshot of the Streamlit application page, which indicates the validity of the blockchain. 
+![(2) Pychain - Validity](https://github.com/kevgeedj/Pychain/assets/128102960/93f60566-bc32-4e76-b074-9fbdbd964379)
 
